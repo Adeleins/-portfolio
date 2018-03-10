@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.com" resolutions="1x" timestamp="1520705644454">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="adeleins.me" resolutions="1x" timestamp="1520708334920">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3800013864" ref="index:contact:about-me:portfolio"/>
@@ -7,8 +7,8 @@
     <file name="nomq_index.css" crc="3852654488" ref="index"/>
     <file name="contact.css" crc="177740369" ref="contact"/>
     <file name="nomq_contact.css" crc="477298880" ref="contact"/>
-    <file name="about-me.css" crc="347775284" ref="about-me"/>
-    <file name="nomq_about-me.css" crc="224069663" ref="about-me"/>
+    <file name="about-me.css" crc="504348307" ref="about-me"/>
+    <file name="nomq_about-me.css" crc="3861396864" ref="about-me"/>
     <file name="portfolio.css" crc="364679955" ref="portfolio"/>
     <file name="nomq_portfolio.css" crc="3850097531" ref="portfolio"/>
   </folder>
@@ -58,7 +58,7 @@
     <file name="pagina web design -01156x149.png" crc="3812026644" seo="true" ref="contact">
       <caption webpage="contact" alt=""/>
     </file>
-    <file name="clouds-01-crop-u1232.png" crc="3775744215" seo="true" ref="contact:portfolio:index:about-me">
+    <file name="clouds-01-crop-u1232.png" crc="467477392" seo="true" ref="contact:portfolio:index:about-me">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -198,7 +198,7 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="portfolio"/>
-    <file name="ballom134x194.png" crc="199473584" seo="true" ref="index">
+    <file name="ballom.png" crc="199473584" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="ballom95x138.png" crc="3993372232" seo="true" ref="index">
@@ -227,9 +227,6 @@
     <file name="ballom124x179.png" crc="410559961" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="ballom.png" crc="199473584" seo="true" ref="about-me">
-      <caption webpage="about-me" alt=""/>
-    </file>
     <file name="me-01.png" crc="233742914" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
@@ -244,9 +241,6 @@
     <file name="ballom80x115.png" crc="4025963890" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="ballom126x182.png" crc="4153926676" seo="true" ref="about-me">
-      <caption webpage="about-me" alt=""/>
-    </file>
     <file name="ballom55x79.png" crc="124251664" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
@@ -256,15 +250,12 @@
     <file name="ballom50x72.png" crc="513732280" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="ballom79x114.png" crc="486500436" seo="true" ref="about-me">
-      <caption webpage="about-me" alt=""/>
-    </file>
     <file name="ballom34x49.png" crc="4091423285" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
   </folder>
-  <file name="contact.html" crc="4076471510" seo="true" mt="1520629598849" redirect="true"/>
-  <file name="portfolio.html" crc="32012747" seo="true" mt="1520629598849" redirect="true"/>
-  <file name="index.html" crc="3937119" seo="true" mt="1520629598849" redirect="true"/>
-  <file name="about-me.html" crc="431299238" seo="true" mt="1520629609470" redirect="true"/>
+  <file name="contact.html" crc="3968598442" seo="true" mt="1520629598849" redirect="true"/>
+  <file name="portfolio.html" crc="3989994930" seo="true" mt="1520629598849" redirect="true"/>
+  <file name="index.html" crc="284058679" seo="true" mt="1520629598849" redirect="true"/>
+  <file name="about-me.html" crc="522374665" seo="true" mt="1520708192425" redirect="true"/>
 </manifest>
