@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://adeleins.me/index.html</loc>
-    <lastmod>2018-03-09</lastmod>
+    <lastmod>2018-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -41,10 +41,25 @@
     <image:image>
       <image:loc>http://adeleins.me/images/pagina%20web%20design%20-01240x230.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://adeleins.me/images/ballom134x194.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://adeleins.me/images/hello-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://adeleins.me/images/ballom127x184.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://adeleins.me/images/hello-01353x279.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://adeleins.me/images/hello-01338x266.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://adeleins.me/contact.html</loc>
-    <lastmod>2018-03-09</lastmod>
+    <lastmod>2018-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -101,7 +116,7 @@
   </url>
   <url>
     <loc>http://adeleins.me/portfolio.html</loc>
-    <lastmod>2018-03-09</lastmod>
+    <lastmod>2018-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -143,7 +158,7 @@
   </url>
   <url>
     <loc>http://adeleins.me/about-me.html</loc>
-    <lastmod>2018-03-10</lastmod>
+    <lastmod>2018-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
